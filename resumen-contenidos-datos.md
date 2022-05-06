@@ -1,7 +1,10 @@
+# Resumen de contenidos de la asignatura *periodismo de datos*
 En este archivo se encuentra un resumen de los conocimientos adquiridos en la asignatura de periodismo de datos expuesto según el orden seguido en las clases.
-1.	Instalar un programa de emulación de la terminal
-Yo personalmente he trabajado desde el sistema operativo Windows, por lo que he instalado dos programas de emulación de la terminal: WSL (https://docs.microsoft.com/es-es/windows/wsl/) y Cygwin.
-WSL: Instalación de Ubuntu
+## 1.	Instalar un programa de emulación de la terminal
+
+Yo personalmente he trabajado desde el sistema operativo Windows, por lo que he instalado dos programas de emulación de la terminal: WSL y Cygwin.
+
+**WSL: Instalación de Ubuntu**
 En la primera clase práctica instalamos WSL a través de una terminal desarrollada por Microsoft: PowerShell. Para instalarlo abrimos una sesión como administradores y ejecutamos el comando wsl –install -d Ubuntu, reiniciamos el ordenador y ya podíamos acceder al programa, solo faltaba crear nuestro usuario y elegir una contraseña para el usuario administrador (usuario UNIX)
 Cygwin: Unix en Windows
 Cierto es que Cygwin fue instalado semanas más tarde en el trascurso de la asignatura, sin embargo, lo incluyo ahora porque fue un proceso similar al recién expuesto.
@@ -11,7 +14,7 @@ Cygwin en su caso no es una herramienta nativa de Microsoft, por lo que tuvimos 
 -	Elegimos el mirror, dominio.es al estar en España.
 -	Finalmente, instalamos los paquetes libcurl4, wget, ca-certificates-letsencrypt, lynx, nano y openssl.
 
-2. Configuración del programa
+## 2. Configuración del programa
 Para facilitar el uso de los programas debimos configurar algunas cuestiones. 
 En primer lugar, creamos un alias en la terminal, 
 de este modo evitamos escribir toda la ruta de nuestra carpeta. 
@@ -35,11 +38,10 @@ De este modo, podemos vincular los cambios que se hacen en nuestros archivos loc
 -	Escribimos git config --global user.name nuestrousuario (en mi caso saracse) en nuestra terminal.
 -	Escribimos git config --global user.email correogithub (siendo el correogithub el correo que hayamos utilizado para crear nuestra cuenta GitHub
 
-3. Configuración de un programa de edición de texto
+## 3. Configuración de un programa de edición de texto
 Para poder editar los textos de nuestros archivos desde la terminal, utilizamos el editor de texto de Linux, nano. 
 -	Antes que nada, configuramos nano para que el texto se adapté a la resolución de la pantalla y para que aparezca el número de líneas. Ejecutamos nano $HOME/.nanorc y en el editor, ponemos: # Ajustar el texto a pantalla
-set softwrap
-# Numerar las líneas
+set softwrap # Numerar las líneas
 set linenumbers
 
 En el caso de Cygwin, 
@@ -47,23 +49,23 @@ En el caso de Cygwin,
 -	Buscamos con CTRL + W “linenumbers” y en la línea (# set linenumbers) le quitamos la #.
 -	Volvemos a buscar con CTRL + W “softwrap” y en la línea (# set softwrap) le quitamos la #.
 
-4. Configuración y funcionamiento de un gestor de paquetes/programas del emulador de la terminal
+## 4. Configuración y funcionamiento de un gestor de paquetes/programas del emulador de la terminal
 El gestor de paquetes de Ubuntu es apty, este viene ya incorporado al programa. 
 Sin embargo, en el caso de Cygwin es apt-cyg y hay que instalarlo. 
 -	 Ejecutamos lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > apt-cyg y luego install apt-cyg /bin. 
 El gestor de paquetes nos permitirá instalar herramientas en un futuro, como lolcat.
-5. Versión del lenguaje de SHELL utilizado
+## 5. Versión del lenguaje de SHELL utilizado
 En el caso de la terminal de Ubuntu, Bash es el intérprete de lenguaje de comandos, es decir uno de los lenguajes posibles de Shell. 
 Para conocer que Shell utilizamos podemos usar el comando echo $0 que nos devolverá a partir de esta variable de entorno la shell que estamos utilizando en el caso de WSL nos devuelve -BASH.
 
-6. Valor de la variable de entorno PATH
+## 6. Valor de la variable de entorno PATH
 Las variables de entorno en mi caso la variable de entorno es $PATH propia de los sistemas de Microsoft. 
 Para ver el valor de la variable PATH podemos imprimirla directamente a través del comando echo $PATH.
 Las variables de entorno tienen al principio el signo $ 
 -	si ponemos simplemente $PATH la terminal nos muestra las rutas con los programas que son posibles ejecutar. 
 -	si quisiéramos saber el valor de las rutas de la variable escribiríamos echo. echo $PATH.
 
-7. Comandos utilizados y ejemplos
+## 7. Comandos utilizados y ejemplos
 Los comandos tienen la siguiente estructura: comando / opciones / argumentos
 •	ls: listar un directorio (ver qué archivos y carpetas hay en la ruta en la que estamos). Si queremos ver el directorio actual, no hace falta especificar la ruta.
 •	cd: acceder a un directorio en específico. Si escribimos solo cd vamos al directorio raíz. cd .., nos sube un directorio. Con cd -nos lleva al último sitio en el que estábamos.
