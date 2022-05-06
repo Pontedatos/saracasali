@@ -23,4 +23,4 @@ Artículo escrito por mi sobre el estado actual de la brecha salarial de género
 **Práctica 3**
 
 Un documento explicativo de dos cuadernos realizados en Python 3. 
-El primero de ellos se corresponde con la API del COVID-19 en html y en ipynb. El segundo es el mapa de accidentes del municipio de Zaragoza en html y en ipynb.
+El primero de ellos se corresponde con la API del COVID-19 en [html](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.html)y en ipynb. El segundo es el mapa de accidentes del municipio de Zaragoza en html y en ipynb.
