@@ -18,6 +18,7 @@ Cygwin en su caso no es una herramienta nativa de Microsoft, por lo que tuvimos 
 ## 2. Configuración del programa
 
 Para facilitar el uso de los programas debimos configurar algunas cuestiones. 
+
 En primer lugar, creamos un alias en la terminal, 
 de este modo evitamos escribir toda la ruta de nuestra carpeta. 
 Es decir, para que en vez de tener que teclear cd ‘/mnt/c/Users/usuaria/Documentos/Apuntes/Periodismo de Datos/’, pudiésemos acceder a dicha ruta tecleando simplemente  micasa,. 
