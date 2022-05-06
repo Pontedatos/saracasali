@@ -24,8 +24,7 @@ Para la segunda tarea, debiamos realizar un artículo propio basado en piezas de
 
 **Práctica 3**
 
-Por primera vez utilizamos Jupyter para la tercera tarea. Esta práctica consistió en completar y comentar los notebooks que creamos en Jupyter -los "notebooks" "barchart" y "api-pandas-folium"-, explicando los pasos que habíamos seguido. 
-Un documento explicativo de dos cuadernos realizados en Python 3. 
+Por primera vez utilizamos Jupyter para la tercera tarea. Esta práctica consistió en completar y comentar los notebooks que creamos en Jupyter explicando los pasos que habíamos seguido. 
 
 El primero de ellos se corresponde con la API del COVID-19 en [html](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.html) y en [ipynb](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.ipynb) 
 
