@@ -6,21 +6,27 @@ En primer lugar aparecerán por orden cronológico las tareas que hemos ido real
 
 **Práctica 1**
 
-Comentario sobre el artículo [Are social media harmful? Yes, say most Europeans, but it's complicated](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
+Como primera tarea hicimos dos comentarios a través de la visualización de datos. Los comentarios debían ser elabordos en lenguaje Markdown e incluidos en nuestro repositorio personal de Github. 
+
+Para el primer comentario, debimos basarnos en el artículo [Are social media harmful? Yes, say most Europeans, but it's complicated](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/), del proyecto TRESCA.
 
 [Comentario Tresca](https://github.com/Pontedatos/saracasali/blob/main/practica-1-tresca.md)
 
-Comentario sobre el artículo de el orden Mundial [Los trenes de alta velocidad en el mundo](https://elordenmundial.com/mapas-y-graficos/paises-trenes-alta-velocidad/)
+El segundo comentario era de elección libre y yo seleccioné una visualización de datos de El Orden Mundial : [Los trenes de alta velocidad en el mundo](https://elordenmundial.com/mapas-y-graficos/paises-trenes-alta-velocidad/)
 
 [Comentario El Orden Mundial](https://github.com/Pontedatos/saracasali/blob/main/practica-1-libre.md)
 
 **Práctica 2**
 
-Artículo escrito por mi sobre el estado actual de la brecha salarial de género
+Para la segunda tarea, debiamos realizar un artículo propio basado en piezas de otras fuentes que incluyesen visualización de datos o infografías. La sintaxis y el formato de dicho artículo también fueron en lenguaje Markdown e incluidos en mi repositorio personal de GitHub. Para esta tarea, yo trabajé con datos relativos a la brecha salarial de género.
 
-[Artículo Brecha Salarial](https://github.com/Pontedatos/saracasali/blob/main/practica-2.md)
+[Artículo Brecha Salarial de Género](https://github.com/Pontedatos/saracasali/blob/main/practica-2.md)
 
 **Práctica 3**
 
+Por primera vez utilizamos Jupyter para la tercera tarea. Esta práctica consistió en completar y comentar los notebooks que creamos en Jupyter -los "notebooks" "barchart" y "api-pandas-folium"-, explicando los pasos que habíamos seguido. 
 Un documento explicativo de dos cuadernos realizados en Python 3. 
-El primero de ellos se corresponde con la API del COVID-19 en [html](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.html) y en [ipynb](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.ipynb) El segundo es el mapa de accidentes del municipio de Zaragoza en html y en ipynb.
+
+El primero de ellos se corresponde con la API del COVID-19 en [html](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.html) y en [ipynb](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.ipynb) 
+
+El segundo es el mapa de accidentes del municipio de Zaragoza en html y en ipynb.
