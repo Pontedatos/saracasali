@@ -16,4 +16,11 @@ Comentario sobre el artículo de el orden Mundial [Los trenes de alta velocidad 
 
 **Práctica 2**
 
+Artículo escrito por mi sobre el estado actual de la brecha salarial de género
 
+[Artículo Brecha Salarial](https://github.com/Pontedatos/saracasali/blob/main/practica-2.md)
+
+**Práctica 3**
+
+Un documento explicativo de dos cuadernos realizados en Python 3. 
+El primero de ellos se corresponde con la API del COVID-19 en html y en ipynb. El segundo es el mapa de accidentes del municipio de Zaragoza en html y en ipynb.
