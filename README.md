@@ -27,7 +27,7 @@ Para la segunda tarea, debiamos realizar un artículo propio basado en piezas de
 
 Por primera vez utilizamos Jupyter para la tercera tarea. Esta práctica consistió en completar y comentar los notebooks que creamos en Jupyter explicando los pasos que habíamos seguido. 
 
-El primero de ellos se corresponde con la API del COVID-19 en [html](practica3-api-pandas-folium.html) y en [ipynb](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.ipynb) 
+El primero de ellos se corresponde con la API del COVID-19 en [html](practica3-api-pandas-folium.html) y en [ipynb](practica3-api-pandas-folium.ipynb) 
 
 El segundo es el mapa de accidentes del municipio de Zaragoza en [html](https://github.com/Pontedatos/saracasali/blob/main/practica3-api-pandas-folium.html) y en [ipynb](https://github.com/Pontedatos/saracasali/blob/main/practica3-api-pandas-folium.ipynb).
 
