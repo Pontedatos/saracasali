@@ -9,3 +9,7 @@ En primer lugar aparecerán por orden cronológico las tareas que hemos ido real
 Comentario sobre el artículo [Are social media harmful? Yes, say most Europeans, but it's complicated](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/)
 
 [Comentario Tresca](https://github.com/Pontedatos/saracasali/blob/main/practica-1-tresca.md)
+
+Comentario sobre el artículo de el orden Mundial [Los trenes de alta velocidad en el mundo](https://elordenmundial.com/mapas-y-graficos/paises-trenes-alta-velocidad/)
+
+[Comentario El Orden Mundial](
