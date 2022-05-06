@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Periodismo de datos
+## Por Sara Casalí
+Soy Sara Casalí San Emeterio, estudiante de *Periodismo y Humanidades* en la Universidad Carlos III de Madrid, y aquí te vas a encontrar con el trabajo que he realizado a lo largo del cuatrimestre para la asignatura *Periodmo de datos*. 
 
-You can use the [editor on GitHub](https://github.com/Pontedatos/saracasali/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En primer lugar aparecerán por orden cronológico las tareas que hemos ido realizando para conocer y trabajar con distintas herramientas útiles para ejercer el periodismo de datos entre otras cosas. Finalmente, un resumen de los contenidos adqueridos en la materia y un comentario sobre los pasos a seguir para crear la presente página web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Práctica 1**
 
-### Markdown
+Como primera tarea hicimos dos comentarios a través de la visualización de datos. Los comentarios debían ser elabordos en lenguaje Markdown e incluidos en nuestro repositorio personal de Github. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para el primer comentario, debimos basarnos en el artículo [Are social media harmful? Yes, say most Europeans, but it's complicated](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/), del proyecto TRESCA.
 
-```markdown
-Syntax highlighted code block
+[Comentario Tresca](practica-1-tresca.md)
 
-# Header 1
-## Header 2
-### Header 3
+El segundo comentario era de elección libre y yo seleccioné una visualización de datos de El Orden Mundial : [Los trenes de alta velocidad en el mundo](https://elordenmundial.com/mapas-y-graficos/paises-trenes-alta-velocidad/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+[Comentario El Orden Mundial](practica-1-libre.md) 
 
-**Bold** and _Italic_ and `Code` text
+**Práctica 2**
 
-[Link](url) and ![Image](src)
-```
+Para la segunda tarea, debiamos realizar un artículo propio basado en piezas de otras fuentes que incluyesen visualización de datos o infografías. La sintaxis y el formato de dicho artículo también fueron en lenguaje Markdown e incluidos en mi repositorio personal de GitHub. Para esta tarea, yo trabajé con datos relativos a la brecha salarial de género.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Artículo Brecha Salarial de Género](practica-2.md)
 
-### Jekyll Themes
+**Práctica 3**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pontedatos/saracasali/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Por primera vez utilizamos Jupyter para la tercera tarea. Esta práctica consistió en completar y comentar los notebooks que creamos en Jupyter explicando los pasos que habíamos seguido. 
 
-### Support or Contact
+El primero de ellos se corresponde con la API del COVID-19 en [html](practica3-python-api-covid19-pandas.html) y en [ipynb](practica3-python-api-covid19-pandas.ipynb)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+El segundo es el mapa de accidentes del municipio de Zaragoza en [html](practica3-api-pandas-folium.html) y en [ipynb](practica3-api-pandas-folium.ipynb)
+
+**Documentos adjuntos**
+
+Para terminar aquí se puede encontrar un resumen de los contenidos de la signatura y los pasos a seguir para realizar esta última entrega.
+
+[resumen](resumen-contenidos-datos.md)
+
+[metodología](metodología-trabajo-final.md)
