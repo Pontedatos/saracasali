@@ -95,6 +95,7 @@ Los comandos tienen la siguiente estructura: comando / opciones / argumentos
 •	nano → editar textos. Para editar con nano, tenemos que escribir nano seguido del nombre del archivo. Si estamos en la carpeta de la asignatura, por ejemplo, escribimos nano README.md. Para guardar CTRL + O, y para salir CTRL + X.
 
 •	echo: sirve para que la terminal nos devuelva un texto. Si queremos que la terminal nos diga Hola, escribimos echo Hola.
+
 •	&&: ejecutar dos comandos en una misma línea o de una vez. Por ejemplo, si queremos crear una carpeta y luego situarnos dentro, escribimos: mkdir carpeta && cd carpeta.
 
 •	|: pasar de una salida a una entrada. Por ejemplo, si queremos hacer un cat para leer un archivo pero visualizarlo con less, escribimos cat README.md | less.
