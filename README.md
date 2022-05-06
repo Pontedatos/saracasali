@@ -10,11 +10,10 @@ Como primera tarea hicimos dos comentarios a través de la visualización de dat
 
 Para el primer comentario, debimos basarnos en el artículo [Are social media harmful? Yes, say most Europeans, but it's complicated](https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/), del proyecto TRESCA.
 
-[Comentario Tresca](https://github.com/Pontedatos/saracasali/blob/main/practica-1-tresca.md)
+[Comentario Tresca](practica-1-tresca.md)
 
 El segundo comentario era de elección libre y yo seleccioné una visualización de datos de El Orden Mundial : [Los trenes de alta velocidad en el mundo](https://elordenmundial.com/mapas-y-graficos/paises-trenes-alta-velocidad/)
 
-[Comentario El Orden Mundial](https://github.com/Pontedatos/saracasali/blob/main/practica-1-libre.md)
 
 [Comentario El Orden Mundial](practica-1-libre.md) 
 
