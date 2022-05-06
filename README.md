@@ -37,5 +37,5 @@ Para terminar aquí se puede encontrar un resumen de los contenidos de la signat
 
 [resumen](resumen-contenidos-datos.md)
 
-[metodología](https://github.com/Pontedatos/saracasali/blob/main/metodolog%C3%ADa-trabajo-final.md)
+[metodología](metodología-trabajo-final.md)
 
