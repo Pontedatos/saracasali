@@ -102,8 +102,13 @@ Los comandos tienen la siguiente estructura: comando / opciones / argumentos
 
 •	env: visualizar en pantalla todas las variables de entorno. Si lo usamos con | less, es un visor más ameno porque son demasiadas variables y no caben en la pantalla: env | less.
 
+
 o	touch: crea un archivo nuevo. Por ejemplo, si queremos crear un README.md en nuestra carpeta, escribimos touch README.mdy ya está creado.
+
 o	tree: como ls pero con más opciones. Con tree -L 1 le decimos cuántos niveles queremos ver. También podemos poner tree -L 2 o tree -L 3, según el nivel de detalle (mayor el número mayor el grado de detalle).
+
 o	rm: eliminar archivos o directorios. Hay que tener cuidado porque los elimina de forma definitiva, los archivos no van a la papelera.
+
 o	wget: descargar un archivo/contenido de una web. Tenemos que copiar el enlace de lo que nos queramos descargar.
+
 o	curl: igual que wget pero con más opciones.
