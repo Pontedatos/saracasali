@@ -12,4 +12,8 @@ Comentario sobre el artículo [Are social media harmful? Yes, say most Europeans
 
 Comentario sobre el artículo de el orden Mundial [Los trenes de alta velocidad en el mundo](https://elordenmundial.com/mapas-y-graficos/paises-trenes-alta-velocidad/)
 
-[Comentario El Orden Mundial](
+[Comentario El Orden Mundial](https://github.com/Pontedatos/saracasali/blob/main/practica-1-libre.md)
+
+**Práctica 2**
+
+
