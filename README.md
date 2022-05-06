@@ -33,3 +33,6 @@ El segundo es el mapa de accidentes del municipio de Zaragoza en [html](https://
 **Documentos adjuntos**
 
 Para terminar aquí se puede encontrar un resumen de los contenidos de la signatura y los pasos a seguir para realizar esta última entrega.
+
+[resumen](https://github.com/Pontedatos/saracasali/blob/main/resumen-contenidos-datos.md)
+
