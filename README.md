@@ -28,4 +28,4 @@ Por primera vez utilizamos Jupyter para la tercera tarea. Esta práctica consist
 
 El primero de ellos se corresponde con la API del COVID-19 en [html](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.html) y en [ipynb](https://github.com/Pontedatos/saracasali/blob/main/practica3-python-api-covid19-pandas.ipynb) 
 
-El segundo es el mapa de accidentes del municipio de Zaragoza en html y en ipynb.
+El segundo es el mapa de accidentes del municipio de Zaragoza en html y en [ipynb](https://github.com/Pontedatos/saracasali/blob/main/practica3-api-pandas-folium.ipynb).
