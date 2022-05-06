@@ -21,7 +21,7 @@ El segundo comentario era de elección libre y yo seleccioné una visualización
 
 Para la segunda tarea, debiamos realizar un artículo propio basado en piezas de otras fuentes que incluyesen visualización de datos o infografías. La sintaxis y el formato de dicho artículo también fueron en lenguaje Markdown e incluidos en mi repositorio personal de GitHub. Para esta tarea, yo trabajé con datos relativos a la brecha salarial de género.
 
-[Artículo Brecha Salarial de Género](https://github.com/Pontedatos/saracasali/blob/main/practica-2.md)
+[Artículo Brecha Salarial de Género](practica-2.md)
 
 **Práctica 3**
 
