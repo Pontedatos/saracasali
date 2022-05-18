@@ -20,6 +20,7 @@ diferenciarse así del clásico periodismo de Truman Capote. El que en su
 momento se conoció como "periodismo de precisión" sería pues el precedente 
 al hoy conocido "periodismo de datos".
 
+
 **¿Quién fue Florence Nightingale?**
 
 Florence Nightingale fue una enfermera, escritora y estadística británica 
